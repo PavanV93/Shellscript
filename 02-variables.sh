@@ -1,5 +1,8 @@
 #!/bin/bash
 
-echo "pavan:: Hello suresh"
-echo "suresh:: Hi Hello Pavan"
+PERSON1=pavan #n space between = and vallue
+PERSON2=suresh
+
+echo "$PERSON1:: Hello $PERSON2"
+echo "$PERSON2:: Hi Hello $PERSON1"
 
