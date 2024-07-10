@@ -28,4 +28,11 @@ arraylist: list of values
 if you define a variable as array, it can hold list of values..
 set, map
 
+07-special-vars.sh:
+sh 07-special-vars.sh docker terraform
+write down I/Question in special vars file inside line individually...
+
+ps -ef | grep sleep
+
+
 
